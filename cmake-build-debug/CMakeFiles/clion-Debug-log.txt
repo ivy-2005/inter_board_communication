@@ -1,0 +1,27 @@
+/Users/baochenchen/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/baochenchen/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DCMAKE_C_COMPILER=/Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-gcc -DCMAKE_CXX_COMPILER=/Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-g++ -G Ninja -S /Users/baochenchen/Documents/inter_board_communication -B /Users/baochenchen/Documents/inter_board_communication/cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.0s)
+You have changed variables that require your cache to be deleted.
+Configure will be re-run and you may have to reset some variables.
+The following variables have changed:
+CMAKE_C_COMPILER= /Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-gcc
+CMAKE_CXX_COMPILER= /Applications/ArmGNUToolchain/13.3.rel1/arm-none-eabi/bin/arm-none-eabi-g++
+
+-- The C compiler identification is GNU 13.3.1
+-- The CXX compiler identification is GNU 13.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: /opt/homebrew/bin/arm-none-eabi-gcc
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /opt/homebrew/bin/arm-none-eabi-gcc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /opt/homebrew/bin/arm-none-eabi-g++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Minimal optimization, debug info included
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/baochenchen/Documents/inter_board_communication/cmake-build-debug
